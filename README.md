@@ -1,4 +1,4 @@
-# 👋 Hola, soy Franco Fernández
+# Hola, soy Franco Fernández
 
 🎯 **Analista de Datos Jr.** apasionado por transformar datos en insights accionables.  
 💡 Experiencia en **Power BI, SQL, Excel avanzado, DAX, Power Query** y en proyectos de análisis con **Python**.  
@@ -15,11 +15,12 @@
 
 ---
 
-## 📂 Proyectos Destacados
+## Proyectos Destacados
+
 - 🔹 [**Proyecto LEGO**](https://github.com/francoferdata/Proyecto_Lego): Análisis exploratorio de datos históricos de LEGO con Python, Pandas y visualizaciones.  
-- 🔹 **Recursos Humanos con Power BI**: Dashboard interactivo para analizar sueldos, desempeño y rotación.  
-- 🔹 **Dashboard de Productividad**: KPIs industriales con DAX y visualizaciones UX-friendly.  
-- 🔹 **Análisis Demográfico Global**: Mortalidad infantil y esperanza de vida con mapas y comparaciones regionales.  
+- 🔹 [**Dashboard Financiero**](https://github.com/francoferdata/Dashboard_Financiero): Dashboard interactivo en Power BI para analizar métricas financieras clave (pagos, impuestos, utilidades) con segmentadores dinámicos y visualizaciones como gráficos de cascada y barras.  
+- 🔹 [**Dashboard de Productividad**](https://github.com/francoferdata/Dashboard_Productividad): Dashboard en Power BI para medir eficiencia operativa, calidad de producción y piezas defectuosas. Incluye KPIs, segmentadores por operador/mes y visualizaciones interactivas para optimizar procesos.  
+- 🔹 [**Reporte de Recursos Humanos**](https://github.com/francoferdata/Reporte_RRHH): Informe en Power BI para analizar métricas de RRHH como cantidad de empleados, sueldos, desempeño y rotación. Incluye medidas DAX, segmentadores dinámicos y navegación entre páginas. 
 
 ---
 
