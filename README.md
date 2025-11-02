@@ -17,10 +17,10 @@
 
 ## Proyectos Destacados
 
-- 🔹 [**Proyecto LEGO**](https://github.com/francoferdata/Proyecto_Lego): Análisis exploratorio de datos históricos de LEGO con Python, Pandas y visualizaciones.  
-- 🔹 [**Dashboard Financiero**](https://github.com/francoferdata/Dashboard_Financiero): Dashboard interactivo en Power BI para analizar métricas financieras clave (pagos, impuestos, utilidades) con segmentadores dinámicos y visualizaciones como gráficos de cascada y barras.  
-- 🔹 [**Dashboard de Productividad**](https://github.com/francoferdata/Dashboard_Productividad): Dashboard en Power BI para medir eficiencia operativa, calidad de producción y piezas defectuosas. Incluye KPIs, segmentadores por operador/mes y visualizaciones interactivas para optimizar procesos.  
-- 🔹 [**Reporte de Recursos Humanos**](https://github.com/francoferdata/Reporte_RRHH): Informe en Power BI para analizar métricas de RRHH como cantidad de empleados, sueldos, desempeño y rotación. Incluye medidas DAX, segmentadores dinámicos y navegación entre páginas. 
+- [**Proyecto LEGO**](https://github.com/francoferdata/Proyecto_Lego): Análisis exploratorio de datos históricos de LEGO con Python, Pandas y visualizaciones.
+ - [**Análisis EDA de Shows de TV**](https://github.com/francoferdata/Analisis_Shows): Análisis exploratorio en Python (Pandas, Seaborn) para descubrir tendencias en +10,000 shows. Se investigó la correlación entre la popularidad del mercado y la calificación de la audiencia.
+- [**Dashboard Financiero**](https://github.com/francoferdata/Dashboard_Financiero): Dashboard interactivo en Power BI para analizar métricas financieras clave (pagos, impuestos, utilidades) con segmentadores dinámicos y visualizaciones como gráficos de cascada y barras.  
+- [**Dashboard de Productividad**](https://github.com/francoferdata/Dashboard_Productividad): Dashboard en Power BI para medir eficiencia operativa, calidad de producción y piezas defectuosas. Incluye KPIs, segmentadores por operador/mes y visualizaciones interactivas para optimizar procesos.  
 
 ---
 
